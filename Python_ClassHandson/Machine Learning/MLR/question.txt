@@ -1,0 +1,22 @@
+Problem Statement
+
+Predict the Final IPL Score using:
+
+Score after 10 overs
+Wickets lost
+Run rate
+Last 5 overs momentum
+Venue
+Pitch type
+Batting team
+Dew presence
+Dataset Details
+5000 rows
+Numerical + categorical features
+Realistic cricket-style scoring patterns
+Perfect for:
+Multiple Linear Regression
+One Hot Encoding
+Feature Engineering
+Train/Test Split
+R² Evaluation
